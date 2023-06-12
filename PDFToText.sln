@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iText7Wrapper", "PDFToText\iText7Wrapper.csproj", "{BB550491-1BA1-4107-B98B-CC46F68443F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB550491-1BA1-4107-B98B-CC46F68443F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB550491-1BA1-4107-B98B-CC46F68443F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB550491-1BA1-4107-B98B-CC46F68443F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB550491-1BA1-4107-B98B-CC46F68443F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F99D967-43D4-4C41-BBDA-5BB6D14C8AB4}
+	EndGlobalSection
+EndGlobal
