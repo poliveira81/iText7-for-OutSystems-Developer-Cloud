@@ -5,6 +5,8 @@ using OutSystems.ExternalLibraries.SDK;
 using System.Reflection.PortableExecutable;
 using System.Text;
 
+// updated
+
 namespace iText7Wrapper
 {
     [OSInterface(Description = "Leverages the iText Core library (itextpdf.com) for PDF related operations." +
