@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <None Remove="icon.png" />
+    <None Remove="PDFToText - source code.zip" />
   </ItemGroup>
 
   <ItemGroup>
